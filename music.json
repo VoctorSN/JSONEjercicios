@@ -1,0 +1,36 @@
+{
+  "listas": [
+    {
+      "nombre": "lista1",
+      "fecha": "14/02/2005",
+      "canciones": [
+        {
+          "titulo": "Numb",
+          "autor": "Linkin Park",
+          "duracion": 1.38
+        },
+        {
+          "titulo": "Numb1",
+          "autor": "Linkin Park1",
+          "duracion": 11.38
+        }
+      ]
+    },
+    {
+      "nombre": "lista2",
+      "fecha": "13/02/2005",
+      "canciones": [
+        {
+          "titulo": "Rise",
+          "autor": "Linkin Park",
+          "duracion": 2.38
+        },
+        {
+          "titulo": "Rise2",
+          "autor": "Linkin Park1",
+          "duracion": 22.38
+        }
+      ]
+    }
+  ]
+}
